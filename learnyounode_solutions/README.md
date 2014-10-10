@@ -1,4 +1,7 @@
-This is my solution to JUGGLING ASYNC without using any libraries.
+#LearnYouNode Solutions
+
+##JUGGLING ASYNC Solution
+My I came up with my solution to juggling async without using any libraries.
 
 I didn't want to use any libraries when solving this because I think it results in a much better understanding of the concept they're trying to teach.  It also made me flex my JavaScript muscles :)  I figure if I can do it without the library, then I'll have no problem picking up the library later, which is definitely more convenient to use when actually building an application.
 
